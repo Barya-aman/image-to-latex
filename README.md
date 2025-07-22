@@ -173,4 +173,4 @@ make docker
 
 - [MLOps - Made with ML](https://madewithml.com/courses/mlops/) for introducing Makefile, pre-commit, Github Actions and Python packaging.
 
-- [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) for the im2latex-100k dataset.
+- [harvardnlp/im2markup](https://github.com/harvardnlp/im2markup) for the im2latex-100k dataset.# image_to_latex
